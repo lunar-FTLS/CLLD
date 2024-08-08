@@ -2,7 +2,7 @@
 
 Download link for RCLLD. Two download methods are provided, and additional data from Chang'e-6's latest PCAM, TCAM, and LCAM will be added in the future. Stay tuned.
 
-Baidu Cloud Drive Download Link: https://pan.baidu.com/s/1QaIhg7OK_gZdC_pCXOEyTQ?pwd=czp1 
+Baidu Netdisk Download Link: https://pan.baidu.com/s/1QaIhg7OK_gZdC_pCXOEyTQ?pwd=czp1 
 
 Google Drive Download Link: https://drive.google.com/file/d/1l6QcKqPz5jqM6oZyuWUOv0TnzdmAhjpJ/view?usp=sharing
 
